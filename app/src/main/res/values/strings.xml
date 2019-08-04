@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="title_activity_list">Travelmantics</string>
+    <string name="save_menu">save</string>
+    <string name="insert_new_deal">New Travel Deal</string>
+    <string name="delete_menu">delete</string>
+    <string name="facebook_application_id">2228406507270627</string>
+
+</resources>
